@@ -1,6 +1,6 @@
 # Raspberry Pi 5 Advanced Security System
 
-This security system combines AI facial recognition with RFID authentication for enhanced home security. When motion is detected, the system captures photos, identifies faces, and only requires RFID authentication for unknown faces. 
+This security system combines motion sensors with AI facial recognition and RFID authentication for enhanced home security. When motion is detected, the system captures photos, identifies faces, and only requires RFID authentication for unknown faces. 
 
 ## Features
 
